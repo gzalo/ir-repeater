@@ -1,5 +1,5 @@
 # ir-repeater
-ATtiny85 infrarred repeater
+ATtiny85 infrared repeater
 
 Tried a simpler way but the generated waveform interfered with the sensor, so it wouldn't register. 
 
